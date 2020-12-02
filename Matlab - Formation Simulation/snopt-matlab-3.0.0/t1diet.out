@@ -1,0 +1,30 @@
+
+         ==============================
+         S N O P T  7.7.1    (Nov 2018)
+         ==============================
+1
+ 
+
+ SPECS file
+ ----------
+
+      Begin t1diet problem
+ 
+         Major iterations               100
+ 
+         Major Print level           000001
+      *                             (JFLXBT)
+         Minor print level                1
+ 
+         Print frequency                  1
+         Summary frequency                1
+ 
+         Solution                        no
+ 
+      End t1diet problem
+1
+ 
+ SNSPEC EXIT 100 -- finished successfully
+ SNSPEC INFO 101 -- SPECS file read
+
+ Trial version of SNOPT -- for evaluation or academic purposes only
